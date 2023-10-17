@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\components"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\components\\AddLanguages.jsx",
   "PreviewInSolutionExplorer": false
 }
